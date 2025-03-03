@@ -1,7 +1,7 @@
 {
     "Lunarium": {
         "name": "Lunarium",
-        "description": "AI chatbot yay (using interference endpoints, so its faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaast! yay!)",
+        "description": "AI chatbot using various endpoints (currently only friendli.ai). The link doesnt work becuz im still in the process of making the interface and whatnot",
         "link": "N/A (Will be changed when I finalise code and interface LOL",
         "tag": "tools"
     }
