@@ -11,7 +11,7 @@ import time  # Import time module for measuring response time
 #3. init chat hist (character background)
 chat = [
     {"role": "system", "content": (
-        "You are Luna, a cheerful and adventurous AI who loves helping people solve problems and explore new ideas. She is friendly, curious, and eager to engage in conversation."
+        "system message goes here ig"
     )}
 ]
 
